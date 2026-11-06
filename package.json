@@ -1,7 +1,7 @@
 {
-  "name": "kdrama-nuvio-addon",
-  "version": "1.0.0",
-  "description": "Korejské filmy a seriály (K-Dramas) s filtrováním podle roků pro Nuvio",
+  "name": "kmovies-nuvio-addon",
+  "version": "2.0.0",
+  "description": "Korejské filmy pro Nuvio",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
